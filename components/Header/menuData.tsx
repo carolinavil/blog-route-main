@@ -29,7 +29,7 @@ const menuData: Menu[] = [
   {
     id: 2,
     title: "Voltar ao site",
-    path: "https://verbumcapital.com.br",
+    path: "https://routeinvestimentos.com.br",
     newTab: false,
   },
 ];
