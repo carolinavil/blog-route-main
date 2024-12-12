@@ -5,7 +5,7 @@ import Link from "next/link";
 const Footer = () => {
   return (
     <>
-         <footer className="relative z-10 bg-white pt-16 dark:bg-gray-dark md:pt-20 lg:pt-24">
+       <footer className="relative z-10 bg-white pt-16 dark:bg-gray-dark md:pt-20 lg:pt-24">
         <div className="container">
           <div className="-mx-4 flex flex-wrap">
             <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-4/12">
@@ -231,12 +231,13 @@ const Footer = () => {
             </div>
             <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
             <div className="px-6 pb-10 pt-10">
-              <p className="text-[8px]/4 sm:text-[9px]/4 text-left text-body-color">
-              A Router Investimentos LTDA., inscrita sob o CNPJ XXXXX é uma empresa de assessoria de investimento devidamente registrada na Comissão de Valores Mobiliários (CVM), na forma da Resolução CVM 178. Atuando no mercado financeiro como preposto do Banco Safra Invest S/A, o que pode ser verificado através do site da ANCORD (https://www.ancord.org.br/certificacao-e-credenciamento/) ou através do site da Necton Investimentos (https://www.safra.com.br/atendimento). 
+            <p className="text-[8px]/4 sm:text-[9px]/4 text-left text-body-color">
+            Route Assessoria em Investimentos LTDA (CNPJ 54.542.639/0001-28) refere-se à Assessoria de Investimentos, Correspondência Bancária, e Corretagem de Seguros e/ou Previdência, devidamente registrada na Comissão de Valores Mobiliários (CVM), na forma da Resolução CVM n° 178/2023, e credenciada junto ao Banco Safra S.A. e/ou Safra Corretora de Valores e Câmbio Ltda., o que pode ser verificado no site da CVM (www.cvm.gov.br) ou no site do Banco Safra (www.safra.com.br/safra-invest.htm).
                 <br /><br />
-                O Banco Safra Invest S/A é instituição financeira integrante do sistema de distribuição de títulos e valores mobiliários, atuando como intermediário das operações de seus clientes. Na forma da legislação da CVM, o assessor de investimento não pode administrar ou gerir o patrimônio de investidores, pois é um preposto do intermediário e depende da autorização prévia do cliente para realizar operações no mercado financeiro. Na realização de operações com derivativos, existe a possibilidade de significativas perdas patrimoniais, inclusive, superiores aos valores investidos. 
+                O Assessor de Investimentos é preposto do Safra na distribuição de produtos de investimentos e captação de clientes. Investimentos em títulos e valores mobiliários envolvem riscos. A decisão pelo tipo e perfil de investimento é de responsabilidade exclusiva do cliente, razão pela qual se recomenda fortemente que o investidor faça uma avaliação independente sobre as operações pretendidas, riscos, condições e tributação aplicável. Quaisquer referências e rentabilidades passadas não significam de qualquer forma a garantia ou previsibilidade de rentabilidades futuras.
                 <br /><br />
-                A assessoria pode exercer outras atividades relacionadas ao mercado financeiro, de capitais, securitário e de previdência e capitalização, que podem ou não ser em parceria com o Safra Invest ou demais instituições, e que podem ou não ser realizadas pela mesma pessoa jurídica da assessoria. Especificamente quanto às atividades de gestão, consultoria e análise de valores mobiliários, estas podem vir a ser desempenhadas por empresas do grupo e nunca pela própria assessoria de investimentos, considerando que são atividades conflitantes e que exigem segregação. O investimento em ações é um investimento de risco e rentabilidade passada não é garantia de rentabilidade futura. Para reclamações, favor contatar a Ouvidoria do Banco Safra Invest S/A no telefone nº 0800-722-0048. Para acessar nossa lista de sócios, clique aqui: (https://www.safra.com.br/atendimento)
+                Política de Privacidade:
+                Conheça a Política de Privacidade do Safra: www.safra.com.br/sobre/portal-da-privacidade-e-lgpd.htm
               </p>
             </div>
           </div>
