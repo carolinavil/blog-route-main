@@ -247,12 +247,12 @@ const Footer = () => {
               © 2024 Router Investimentos LTDA. Todos os direitos reservados.{" "}
             </p>
             <a
-              href="http://cyostech.com"
+              href="http://https://tyra.pro/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary flex justify-center text-center text-sm text-body-color dark:text-white"
             >
-              Criado e monitorado por&nbsp;<b>Tyra pro</b>
+              Criado e monitorado por&nbsp;<b>Tyra.pro</b>
             </a>
           </div>
         </div>
