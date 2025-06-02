@@ -28,7 +28,7 @@ const menuData: Menu[] = [
   },
   {
     id: 2,
-    title: "Voltar ao site",
+    title: "Voltar ao site.",
     path: "https://routeinvestimentos.com.br",
     newTab: false,
   },
